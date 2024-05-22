@@ -36,6 +36,6 @@ public class Main {
         int num2 = in.nextInt();
         int sum = num1 + num2;
         System.out.println("the sum of " + num1 + " and " + num2 + " is " + sum);
-
+        // i want to be a progmmar.
     }
 }
