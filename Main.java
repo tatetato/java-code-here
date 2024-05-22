@@ -34,36 +34,8 @@ public class Main {
 
         System.out.println("num2");
         int num2 = in.nextInt();
-        // int sum = num1 + num2;
-        System.out.println("the sum of " + num1 + " and " + num2 + " is " + (num1 + num2));
+        int sum = num1 + num2;
+        System.out.println("the sum of " + num1 + " and " + num2 + " is " + sum);
 
     }
-
-    // もし google みたいな大手会社で働くすると
-    // https://google.github.io/styleguide/javaguide.html#s4-formatting
-    // Horizontal whitespace
-    // On both sides of any binary or ternary operator.
-    // 上のリンクみたいな coding style guideline があります
-    // 従わないなら、首になっちゃう
-    // 了解です
-
-    // 例えば今の状態のコードが、実行は全然大丈夫ですけど
-    // プログラマーの SNS とかグループに発送すると
-    // 「こんなこともコードですか」と叱られる
-    // indent はとても重要
-    // はいわかりました
-
-    // 今書いたプログラムはぎりぎり合格
-    // 満点 100 点なら 75 点
-    // 美しくない
-
-    // プログラマー、あるいはハッカーたちが、コードの美しさには
-    // とっても厳しいです
-    // 了解です
-
-    // 自分で nextInt を発見した、これは立派です
-    //
-    // 仕事するとき、このような場合がたくさんあります
-
-    // これは足すだけ打 はいから好きじゃない
 }
